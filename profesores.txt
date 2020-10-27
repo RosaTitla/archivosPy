@@ -1,0 +1,5 @@
+JOSE TORRES,UTP0004039@utpuebla.edu.mx,585
+ARMANDO MENDOZA,UTP0003746@utpuebla.edu.mx,586
+CARLOS VARGAS,UTP0005904@utpuebla.edu.mx,587
+IVAN CRESPO,UTP0003791@alumno.utpuebla.edu.mx,590
+VANESSA CRUZ,UTP0004908@alumno.utpuebla.edu.mx,591

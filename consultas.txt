@@ -1,0 +1,8 @@
+SELECT * FROM `productos` 
+INNER JOIN proveedor 
+ON productos.provId=proveedor.idProveedor WHERE productos.provId=1
+
+
+SELECT O.*,P.*,OD.* FROM ordenes as O 
+INNER JOIN ordenes_detalle as OD ON O.id=OD.orden_id LEFT JOIN productos AS P ON OD.producto_id=P.codigo
+
